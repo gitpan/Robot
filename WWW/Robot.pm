@@ -38,7 +38,7 @@ use English;
 #	Public Global Variables
 #-----------------------------------------------------------------------
 use vars qw($VERSION);
-$VERSION   = '0.010';
+$VERSION   = '0.011';
 
 #-----------------------------------------------------------------------
 
@@ -1692,7 +1692,7 @@ CPAN is mirrored at FTP sites around the world.
 
 =head1 VERSION
 
-This documentation describes version 0.010 of the Robot module.
+This documentation describes version 0.011 of the Robot module.
 The module requires at least version 5.002 of Perl.
 
 =head1 AUTHOR
